@@ -12,9 +12,6 @@ Justify safety investments with evidence
 The Solution
 An interactive Excel dashboard that transforms raw casualty data into actionable intelligence across multiple dimensions: severity, vehicle type, geography, infrastructure, temporal patterns, and environmental conditions.
 
-Key Findings at a Glance
-MetricValuePercentageInsightTotal Casualties417,883100%All incidents analyzedFatal7,1351.7%Highest priority for interventionSerious59,31214.2%Significant injuriesSlight351,43684.1%Minor injuries but high volumeCar-Related333,48579.8%Dominant vehicle typeUrban255,90061.2%Higher absolute numbersRural162,00038.8%Potentially higher severity rateSingle Carriageway309,70074.1%Highest risk infrastructureDaylight305,00073.0%Most incidents occur during dayWet Conditions115,26127.6%Weather significantly increases risk
-
 Critical Insights
 1. Vehicle Type Analysis
 Finding: Cars account for 79.8% of all casualties (333,485)
