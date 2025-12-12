@@ -1,5 +1,7 @@
 Project Overview
+
 Road traffic casualties represent a significant public health challenge. This project analyzes over 400,000 casualty records to identify patterns, high-risk factors, and intervention priorities for transportation authorities and policy makers.
+
 The Challenge
 Transportation authorities need data-driven insights to:
 
